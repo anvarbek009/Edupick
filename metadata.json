@@ -1,0 +1,10 @@
+{
+  "name": "Edupick",
+  "description": "Uzbekistan's verified learning centers and tutors directory and comparison platform. Compare IELTS, SAT, DTM, and IT centers by real student outcomes, transparent UZS pricing, and book a trial lesson.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
